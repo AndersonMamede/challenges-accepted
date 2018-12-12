@@ -1,9 +1,0 @@
-.capital__link,
-.capital__link:visited{
-    text-decoration: none;
-    color: inherit;
-}
-
-.capital__link:hover{
-    text-decoration: underline;
-}
