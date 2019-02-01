@@ -6,7 +6,7 @@
 
 ## Challenges
 
-Just me practicing using real jobs challenges.
+These projects are developed by me while I learn and practice new technologies and they are based on real job challenges from real companies.
 
 | | Challenge | Stack | Details | My response | Status
 |--|--|--|--|--|--
